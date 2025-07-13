@@ -8,8 +8,8 @@ Each folder contains a different Java application or practice problem. Examples 
 
 - **SimpleATM** – A basic ATM simulator using OOP.
 - **CalculatorApp** – A simple command-line calculator.
-- **BankingSystem** – A mini project demonstrating inheritance and user input.
-- **FileReaderDemo** – Reading files.
+- **PassWordGenerator** - Random generation of passwords.
+- **GardeCalculator** - User input based.
 etc.
 
 ## 🔧 How to Run
